@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.flaskapintclient",                              
+  "displayName": "Flask API Int IO Client",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This code provides a way to send integer actions to a Raspberry Pi server for broadcasting to your listeners.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_01_01_Unity3DToFlaskAPIntIO.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
